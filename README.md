@@ -1,0 +1,1 @@
+A Java-based Pharmacy Management System that helps manage medicines, employees, billing and stock in a pharmacy. This project is designed with Swing GUI and supports efficient record-keeping for day-to-day operations.
